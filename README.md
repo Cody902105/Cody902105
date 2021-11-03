@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Cody902105 (Cameron Gaydon) 
-- 👀 I’m interested in ... Development and Coding in General 
+-Hi, I’m @Cody902105 (Cody Gaydon).
+-I’m interested in, Development and Coding in General.
+-I'm a Magic the Gathering player and am really enjoying developing magic the gathering systems that can help me manage and enjoy the game. 
